@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassRoomD", "ClassRoomD\ClassRoomD.csproj", "{AED29FD0-293C-45F4-BB7C-9864121BAF08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AED29FD0-293C-45F4-BB7C-9864121BAF08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED29FD0-293C-45F4-BB7C-9864121BAF08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AED29FD0-293C-45F4-BB7C-9864121BAF08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED29FD0-293C-45F4-BB7C-9864121BAF08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5045C68F-9124-4F8B-822F-6852A2C87696}
+	EndGlobalSection
+EndGlobal
